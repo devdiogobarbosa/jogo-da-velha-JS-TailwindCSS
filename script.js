@@ -1,5 +1,3 @@
-// arquivo: script.js
-
 // estado do jogo: array de 9 posições (null, 'X' ou 'O')
 const board = Array(9).fill(null);
 let vez = 'X';
